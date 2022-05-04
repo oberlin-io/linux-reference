@@ -1,0 +1,6 @@
+# Vim Reference
+## Find and replace
+With global search, edit confirmation, and special character (".") escape.
+```
+:%s/oberlin-io/oberlin\.io/gc
+```
