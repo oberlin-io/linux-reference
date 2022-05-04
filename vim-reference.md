@@ -1,6 +1,6 @@
 # Vim
-### Find and replace "this" with "that"
-Global search, with repalce confirmation.
+### Find and replace
+Global search, with repalce confirmation and escaped character.
 ```
-:%s/this/that/gc
+:%s/oberlin-io/oberlin\.io/gc
 ```
